@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="11px" viewBox="0 0 9 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="KG_UI_homepage-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-250.000000, -3252.000000)">
+        <g id="Group-18" transform="translate(205.000000, 2806.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(30.000000, 432.000000)">
+                <path d="M23.525,19.0451128 L15.825,14.0827068 C15.66,13.9724311 15.44,13.9724311 15.275,14.0827068 C15.11,14.1378446 15,14.3032581 15,14.5238095 L15,24.4486216 C15,24.6691729 15.11,24.8345865 15.275,24.9448622 C15.385,25 15.44,25 15.55,25 C15.66,25 15.77,24.9448622 15.825,24.8897243 L23.525,19.9273183 C23.69,19.8170426 23.8,19.6516291 23.8,19.4862155 C23.8,19.320802 23.69,19.1002506 23.525,19.0451128 Z" id="ic_play"></path>
+            </g>
+        </g>
+    </g>
+</svg>

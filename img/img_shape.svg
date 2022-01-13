@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="828px" viewBox="0 0 1920 828" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.5170356%" y1="13.0154822%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#988FFF" offset="0%"></stop>
+            <stop stop-color="#73BEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="try" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="url(#linearGradient-1)">
+            <polygon id="Rectangle-16" points="0 185.264786 1920 0 1920 828 0 581.019833"></polygon>
+        </g>
+    </g>
+</svg>
